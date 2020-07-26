@@ -1,5 +1,7 @@
 # NLP Spellchecking System + Evaluation of its Performance
 
+Completed during the MSc Computer Science - Data Analytics
+
 ## Assignment Outline
 
 This assignment will involve the creation of a spellchecking system and an evaluation of its performance. You may use the code snippets provided in Python for completing this or you may use the programming language or environment of your choice
