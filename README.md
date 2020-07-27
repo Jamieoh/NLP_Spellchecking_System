@@ -1,6 +1,6 @@
 # NLP Spellchecking System + Evaluation of its Performance
 
-Completed during the MSc Computer Science - Data Analytics
+Completed during the MSc Computer Science - Data Analytics on the hollbrook.txt file which is available in the repository.
 
 ## Assignment Outline
 
