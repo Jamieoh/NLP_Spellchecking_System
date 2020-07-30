@@ -21,7 +21,7 @@ The purpose of this project was to treat the lines like a single token.
 Libraries used: NLTK
 
 ## Task 1 (10 Marks)
-- Wrioe a parser that can read all the lines of the file holbrook.txt and print out for each line the original (misspelled) text, the corrected text and the indexes of any changes. The indexes refers to the index of the words in the sentence. In the example given, there is only an error in the 10th word and so the list of indexes is [9]. It is not necessary to analyze where the error occurs inside the word.
+- WriTe a parser that can read all the lines of the file holbrook.txt and print out for each line the original (misspelled) text, the corrected text and the indexes of any changes. The indexes refers to the index of the words in the sentence. In the example given, there is only an error in the 10th word and so the list of indexes is [9]. It is not necessary to analyze where the error occurs inside the word.
 - Then split the data into a test set of 100 lines and a training set.
 
 ## Task 2 (10 Marks):
